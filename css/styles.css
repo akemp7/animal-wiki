@@ -1,0 +1,27 @@
+#dog {
+  width: 50%;
+}
+
+#bowerbird {
+  width: 85%;
+}
+
+div {
+  padding: 15px;
+}
+
+.radio {
+  padding: 0px;
+}
+
+.dog {
+  display: none;
+}
+
+.shark {
+  display: none;
+}
+
+.bird {
+  display: none;
+}
